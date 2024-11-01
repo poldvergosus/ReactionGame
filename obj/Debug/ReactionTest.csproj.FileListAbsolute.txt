@@ -1,0 +1,10 @@
+C:\Users\полено\source\repos\ReactionTest\bin\Debug\ReactionTest.exe.config
+C:\Users\полено\source\repos\ReactionTest\bin\Debug\ReactionTest.exe
+C:\Users\полено\source\repos\ReactionTest\bin\Debug\ReactionTest.pdb
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.csproj.AssemblyReference.cache
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.Form1.resources
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.Properties.Resources.resources
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.csproj.GenerateResource.cache
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.csproj.CoreCompileInputs.cache
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.exe
+C:\Users\полено\source\repos\ReactionTest\obj\Debug\ReactionTest.pdb
